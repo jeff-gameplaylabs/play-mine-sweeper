@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "109666181855",
+    "firebase_url": "https://mine-sweeper-dungeon-21404297.firebaseio.com",
+    "project_id": "mine-sweeper-dungeon-21404297",
+    "storage_bucket": "mine-sweeper-dungeon-21404297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109666181855:android:c15a3c426f3c3ea4997f6a",
+        "android_client_info": {
+          "package_name": "com.softpump.minesweeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109666181855-olsm5q0dhqn1ppkunhngpfkle46vr0sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbzdFw7F_5xebCp-svoDPJp38FOcyPmW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109666181855-olsm5q0dhqn1ppkunhngpfkle46vr0sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109666181855-997fj05he69q8ueliej5vrmudbj15l6v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.triplengames.minesweeper"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109666181855:android:cab3aaf366a92887997f6a",
+        "android_client_info": {
+          "package_name": "com.triplengames.minesweeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109666181855-olsm5q0dhqn1ppkunhngpfkle46vr0sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbzdFw7F_5xebCp-svoDPJp38FOcyPmW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109666181855-olsm5q0dhqn1ppkunhngpfkle46vr0sd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "109666181855-997fj05he69q8ueliej5vrmudbj15l6v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.triplengames.minesweeper"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

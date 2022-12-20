@@ -1,2 +1,2 @@
-# play-mine-sweeper
-Play Mine Sweeper
+# run-mine-sweeper
+Run Mine Sweeper
